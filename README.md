@@ -37,4 +37,4 @@ Target Variable
 1 → High Risk / Heart Disease
 
 ![image](https://github.com/Vrushali-DS/CardioPulse-Prediction-Engine/blob/main/heart%20disease.png)
-![vedio](https://github.com/Vrushali-DS/CardioPulse-Prediction-Engine/blob/main/CardioPulse%20_%20Heart%20Disease%20Prediction%20Engine%20-%20Brave%202026-07-02%2018-34-59%20(1).mp4)
+
