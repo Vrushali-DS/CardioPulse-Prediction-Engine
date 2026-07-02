@@ -1,0 +1,6 @@
+{
+  "name": "Heart Disease Prediction Engine",
+  "description": "An interactive machine learning portfolio project demonstrating heart disease prediction with clinical focus on high-recall decision boundaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
